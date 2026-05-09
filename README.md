@@ -22,6 +22,12 @@ AI 编程代理常见的问题往往不是“不会写代码”，而是：
 
 这个 Skill Pack 把这些高频失误沉淀成一组可复用的工程规则。
 
+## 项目案例
+
+Skill Pack 的规则来自真实 AI 工程项目中的长期实践，主要包括：
+
+- [织梦 AI](https://moliaiic.xyz/)：AI 小说与视频创作平台，覆盖提示词治理、移动端 UI、CICD、统一提示词路由、统一扣费服务等。
+
 ## 适用对象
 
 适合这些场景：
@@ -48,6 +54,7 @@ AI 编程代理常见的问题往往不是“不会写代码”，而是：
 - `TOPOLOGY.md` 是本 Skill Pack 自己的工程地图，用于说明当前目录结构和职责边界。
 
 这种结构避免把所有规则塞进一个巨大的 System Prompt，也避免 AI 每次任务都加载不相关的约束。
+
 
 ## 目录结构
 
@@ -404,9 +411,9 @@ AI 行为：
 - 是否让规则变成冗长流程，而不是可执行约束。
 
 
+## 关注
 
-## License
+如果你想了解后续更新、实践案例和 AI 编程工作流，可以关注公众号：
 
-Recommended: Apache License 2.0.
+<img src="SKill/assets/wechat_qrcode.jpg" width="180" alt="公众号二维码" />
 
-Add a `LICENSE` file before publishing.
