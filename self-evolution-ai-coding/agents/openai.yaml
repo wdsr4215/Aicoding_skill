@@ -1,0 +1,4 @@
+interface:
+  display_name: "自进化 AI Coding"
+  short_description: "通用工程治理、能力迁移、旧库兼容和长期一致性技能"
+  default_prompt: "使用自进化 AI Coding 标准完成本次开发：先识别需求、技术栈、项目地图、能力 owner 和旧入口，再按低耦合、可验证、可维护的方式实现；涉及能力迁移、数字生命/Agent 或内容生成时明确 Skill、Prompt、Memory、Evaluator、模型池、计费和旧库兼容边界；最后运行验收并更新治理文件。"
